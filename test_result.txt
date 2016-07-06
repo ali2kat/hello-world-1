@@ -1,0 +1,10 @@
+*WV = water vinigar   50%
+*S = dish soap
+*v = vinigar 
+*A = alcohal
+*P = peroxide 
+*WA = water alcohal
+*B = base 
+*E = expo
+LJ = limon Juice 100%
+LJW = Lemon juice  Water  50%
